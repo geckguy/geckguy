@@ -1,0 +1,5 @@
+- 😄 Hello, i am geck.
+- i recently started programming and I am yet to learn a language completely :/
+- learnt a bit of c and currently learning pythom
+- i like to game alot, hopefully ill make on someday
+- that's all ig. goodbye 👀👋🏽
