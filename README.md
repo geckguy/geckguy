@@ -1,4 +1,4 @@
-- ## ![](https://komarev.com/ghpvc/?username=geckguy&color=blueviolet)
+-  ![](https://komarev.com/ghpvc/?username=geckguy&color=blueviolet)
 - ## Hello
 -  i am geck.
 - i recently started programming and I am yet to learn a language completely :/
