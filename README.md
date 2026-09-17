@@ -1,6 +1,9 @@
-  ![](https://komarev.com/ghpvc/?username=geckguy&color=blueviolet)
- ## Hello
--  I am Abhiram!
-- learnt python and a bit of C. currently into webdev
-- I like to game alot, hopefully ill make one someday (def not foreshadowing)
-- that's all ig. goodbye
+# <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/155.gif" width="44" alt="Cyndaquil" /> Sai Abhiram Alluri
+
+Data scientist in Hyderabad. I work on applied NLP and generative AI use cases. Open source: merged patches in llama.cpp and reactpy, plus a GSoC '23 project with BRL-CAD. Off the clock I tinker with local LLMs, build side projects, and keep The 1975 on repeat.
+
+<a href="mailto:abhiramalluri0411@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/fa562540941211a9f7e2fb236b9cbd40810d95f1/icons/PNG/for-dark-mode/48px/solid/envelope-solid.png"><img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/fa562540941211a9f7e2fb236b9cbd40810d95f1/icons/PNG/for-light-mode/48px/solid/envelope-solid.png" width="24" alt="email"></picture></a>
+<a href="https://www.linkedin.com/in/sai-abhiram-alluri/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/fa562540941211a9f7e2fb236b9cbd40810d95f1/icons/PNG/for-dark-mode/48px/brands/linkedin.png"><img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/fa562540941211a9f7e2fb236b9cbd40810d95f1/icons/PNG/for-light-mode/48px/brands/linkedin.png" width="24" alt="linkedin"></picture></a>
+<a href="https://geckguy.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/fa562540941211a9f7e2fb236b9cbd40810d95f1/icons/PNG/for-dark-mode/48px/solid/globe-solid.png"><img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/fa562540941211a9f7e2fb236b9cbd40810d95f1/icons/PNG/for-light-mode/48px/solid/globe-solid.png" width="24" alt="website"></picture></a>
+
+<sub>powered by a Cyndaquil</sub>
